@@ -9,7 +9,7 @@ body {
 /**TIPOGRAFIA*********/
 @import url("https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@100;400;700&display=swap");
 .containerHeader{
-  border-top:  rgb(250, 238, 68) 2px solid;
+  border-top:  rgb(250, 238, 68) 8px solid;
 }
 /***CONTAINER HEADER******/
 .containerHeader nav ul {
