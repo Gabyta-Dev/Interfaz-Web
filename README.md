@@ -26,8 +26,7 @@ necesarios para la interfaz.<br>
 a. Utilizar enunciados, párrafos, br, listas y
 otros elementos vistos en el material del
 módulo.<br>
-b. El texto a utilizar en el proyecto se
-encuentra en los siguientes slides.
+
 <h3>Referencia de proyecto en figma</h3>
 https://www.figma.com/file/6BvM0dWolsIQl1ZEtT7YUl/Proyecto-HTML?node-id=0%3A1 <br><br><br>
 
